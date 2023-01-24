@@ -11,7 +11,8 @@ public class Calculator {
         return 0;
     }
 
-
-
+    public int multiply (int a, int b)
+    { return  a * b;
+    }
 
 }
